@@ -25,39 +25,39 @@ El curso está dividido en varios módulos, cada uno enfocado en diferentes aspe
 - **03-basic-queries.sql**: Realiza operaciones básicas como INSERT, SELECT, UPDATE y DELETE.
 - **04-primary-foreign-keys.sql**: Implementa claves primarias y foráneas para gestionar relaciones entre tablas.
 
-[Ejercicios del Módulo](./Learn/Basic/ejercicios)
+[Ver Módulo](./Learn/Basic)
 
 ### 2. Consultas Avanzadas
 - **01-joins.sql**: Aprende sobre operaciones JOIN y sus tipos.
 - **02-subqueries.sql**: Comprende cómo utilizar subconsultas.
 - **03-aggregation.sql**: Trabaja con funciones de agregación y GROUP BY.
 
-[Ejercicios del Módulo](./Learn/Advanced/ejercicios)
+[Ver Módulo](./Learn/Advanced)
 
 ### 3. Gestión de Usuarios y Seguridad
 - **01-users-permissions.sql**: Crea usuarios y gestiona permisos.
 - **02-backups.sql**: Aprende a crear y restaurar copias de seguridad.
 
-[Ejercicios del Módulo](./Learn/UserManagement/ejercicios)
+[Ver Módulo](./Learn/UserManagement)
 
 ### 4. Optimización y Mantenimiento
 - **01-indexes.sql**: Optimiza tu base de datos utilizando índices.
 - **02-query-optimization.sql**: Técnicas para optimizar consultas.
 - **03-database-maintenance.sql**: Mejores prácticas para el mantenimiento de bases de datos.
 
-[Ejercicios del Módulo](./Learn/Optimization/ejercicios)
+[Ver Módulo](./Learn/Optimization)
 
 ### 5. Triggers y Procedimientos Almacenados
 - **01-triggers.sql**: Implementa triggers para acciones automáticas.
 - **02-stored-procedures.sql**: Aprende a crear y usar procedimientos almacenados.
 
-[Ejercicios del Módulo](./Learn/TriggersAndProcedures/ejercicios)
+[Ver Módulo](./Learn/TriggersAndProcedures)
 
 ### 6. Tablas Shadow y Triggers
 - **01-tables-and-shadows.sql**: Implementa tablas shadow para versionado de datos.
 - **02-shadows-with-trigger.sql**: Combina tablas shadow con triggers para una gestión avanzada de datos.
 
-[Ejercicios del Módulo](./Learn/ShadowsAndTriggers/ejercicios)
+[Ver Módulo](./Learn/ShadowsAndTriggers)
 
 ### 7. Proyecto Final
 - **01-project-implementation.sql**: Implementa un sistema completo de gestión educativa.
