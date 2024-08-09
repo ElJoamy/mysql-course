@@ -140,7 +140,7 @@ Puedes practicar los ejercicios proporcionados en cada módulo para mejorar tus 
 
 
 ### Database Administrator, Ethical Hacker and Python Developer
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joamy_Salguero-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/joamy5902/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph_Meneses-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/joamy5902/)
 [![Instagram](https://img.shields.io/badge/Instagram-%40joseph__joamy-E4405F?style=social&logo=instagram)](https://www.instagram.com/joseph_joamy/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JosephJoamy?style=social)](https://x.com/JosephJoamy)
 ![GitHub Followers](https://img.shields.io/github/followers/ElJoamy?style=social)
@@ -150,7 +150,7 @@ Soy Ingeniero de Sistemas computacionales y desde el 2022 combino mi trabajo de 
 
 Si quieres apoyarme, aprender mas sobre bases de datos y seguridad informática, mejorar tus habilidades y ayudar a la continuidad del proyecto, puedes encontrarme en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joamy_Salguero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/joamy5902/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph_Meneses-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/joamy5902/)
 [![Instagram](https://img.shields.io/badge/Instagram-%40joseph__joamy-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/joseph_joamy/)
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil_de_ElJoamy-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/ElJoamy)
+[![GitHub](https://img.shields.io/badge/GitHub-ElJoamy-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/ElJoamy)
 
