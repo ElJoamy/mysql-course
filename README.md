@@ -130,7 +130,7 @@ Puedes practicar los ejercicios proporcionados en cada módulo para mejorar tus 
 ## <table>
 <tr>
     <td>
-        <img src="https://avatars.githubusercontent.com/u/68487005?v=4" width="30" alt="ElJoamy"/>
+        <img src="https://avatars.githubusercontent.com/u/68487005?v=4" width="50" alt="ElJoamy"/>
     </td>
     <td>
         <b>Hola, mi nombre es Joseph Meneses (Joamy).</b>
