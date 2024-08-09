@@ -59,6 +59,36 @@ El curso está dividido en varios módulos, cada uno enfocado en diferentes aspe
 
 [Detalles del Proyecto Final](./FinalProject)
 
+## 🔗 Enlaces de interés
+* **Impacto y Popularidad:**
+  * [Stack Overflow](https://survey.stackoverflow.co/2023/#most-popular-technologies-database) | [GitHub State of Open Source](https://github.blog/2023-11-08-the-state-of-open-source-and-ai/) | [Índice DB-Engines](https://db-engines.com/en/ranking) 
+
+* **Historia y Evolución:**
+  * [Historia de MySQL](https://es.wikipedia.org/wiki/MySQL)
+
+* **Documentación Oficial:**
+  * [Documentación MySQL](https://dev.mysql.com/doc/)
+  * [Guía de Auditoría en MySQL](https://dev.mysql.com/doc/refman/8.0/en/audit-log-reference.html)
+  * [Documentación sobre Replicación en MySQL](https://dev.mysql.com/doc/refman/8.0/en/replication.html)
+  
+* **Docker y Contenedores:**
+  * [Docker Hub - MySQL](https://hub.docker.com/_/mysql)
+  * [Documentación Docker](https://docs.docker.com/)
+  * [Repositorio Docker Compose para MySQL](https://github.com/ElJoamy/Docker_compose_comfiguration.git)
+
+* **Herramientas y Playgrounds:**
+  * [MySQL Workbench](https://dev.mysql.com/doc/workbench/en/)
+  * [DataGrip](https://www.jetbrains.com/datagrip/)
+  * [dbdocs.io](https://dbdocs.io/) - Generador de documentación de bases de datos
+  * [SQL Fiddle](http://sqlfiddle.com/) - Entorno de pruebas en línea para SQL
+  
+* **Seguridad y Auditorías:**
+  * [Guía de Seguridad MySQL](https://dev.mysql.com/doc/refman/8.0/en/security.html)
+  * [Implementación de Auditorías en MySQL](https://dev.mysql.com/doc/refman/8.0/en/audit-log.html)
+  
+* **Estilos y Buenas Prácticas:**
+  * [Guía de Estilo MySQL](https://dev.mysql.com/doc/refman/8.0/en/sql-syntax.html)
+
 ## 🤔 Preguntas Frecuentes 
 ### ¿Debo tener conocimientos previos?
 Mi objetivo es que este curso sea accesible para principiantes y personas con poca experiencia en bases de datos. Comenzaremos desde cero y avanzaremos gradualmente a temas más avanzados.
@@ -76,7 +106,6 @@ Las tablas shadow son una técnica avanzada que se utiliza para mantener un hist
 
 ### ¿Cómo puedo practicar?
 Puedes practicar los ejercicios proporcionados en cada módulo para mejorar tus habilidades. Además, te recomiendo que trabajes en el proyecto final para aplicar tus conocimientos en un escenario del mundo real.
-
 
 ## 🛠️ Instalación
 
