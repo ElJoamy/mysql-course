@@ -14,7 +14,7 @@
 ## 📋 Requisitos
 - **DataGrip**: Herramienta de gestión de bases de datos, puedes descargarla [aquí](https://www.jetbrains.com/help/datagrip/installation-guide.html#silent) o utilizar cualquier otra herramienta de tu elección.
 - **MySQL Server**: Instalado en tu máquina local o en un servidor remoto. Puedes descargar MySQL [aquí](https://dev.mysql.com/downloads/mysql/).
-- **Docker**: Opcional, pero recomendado para configurar un entorno de desarrollo aislado. Puedes descargar Docker [aquí][https://docs.docker.com/compose/install/].
+- **Docker**: Opcional, pero recomendado para configurar un entorno de desarrollo aislado. Puedes descargar Docker [aquí](https://docs.docker.com/compose/install/).
 
 ## 📚 Contenido del Curso
 El curso está dividido en varios módulos, cada uno enfocado en diferentes aspectos de la gestión de bases de datos con MySQL. Comenzarás con conceptos básicos y avanzarás gradualmente a temas más complejos, como triggers, procedimientos almacenados, optimización, y replicación.
