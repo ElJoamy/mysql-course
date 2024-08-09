@@ -19,45 +19,50 @@
 ## 📚 Contenido del Curso
 El curso está dividido en varios módulos, cada uno enfocado en diferentes aspectos de la gestión de bases de datos con MySQL. Comenzarás con conceptos básicos y avanzarás gradualmente a temas más complejos, como triggers, procedimientos almacenados, optimización, y replicación.
 
+### 0. Teoría
+- **README.md**: Conseptos fundamentales de MySQL como, normalización, relaciones, llaves, replicación y auditorías.
+
+[Ver Módulo](./Learn/0.Theory/README.md)
+
 ### 1. Conceptos Básicos
 - **01-creating-database.sql**: Aprende a crear una base de datos y sus tablas.
 - **02-data-types.sql**: Comprende los diferentes tipos de datos en MySQL.
 - **03-basic-queries.sql**: Realiza operaciones básicas como INSERT, SELECT, UPDATE y DELETE.
 - **04-primary-foreign-keys.sql**: Implementa claves primarias y foráneas para gestionar relaciones entre tablas.
 
-[Ver Módulo](./Learn/Basic)
+[Ver Módulo](./Learn/1.Basic/)
 
 ### 2. Consultas Avanzadas
 - **01-joins.sql**: Aprende sobre operaciones JOIN y sus tipos.
 - **02-subqueries.sql**: Comprende cómo utilizar subconsultas.
 - **03-aggregation.sql**: Trabaja con funciones de agregación y GROUP BY.
 
-[Ver Módulo](./Learn/Advanced)
+[Ver Módulo](./Learn/2.Advanced)
 
 ### 3. Gestión de Usuarios y Seguridad
 - **01-users-permissions.sql**: Crea usuarios y gestiona permisos.
 - **02-backups.sql**: Aprende a crear y restaurar copias de seguridad.
 
-[Ver Módulo](./Learn/UserManagement)
+[Ver Módulo](./Learn/3.UserManagement)
 
 ### 4. Optimización y Mantenimiento
 - **01-indexes.sql**: Optimiza tu base de datos utilizando índices.
 - **02-query-optimization.sql**: Técnicas para optimizar consultas.
 - **03-database-maintenance.sql**: Mejores prácticas para el mantenimiento de bases de datos.
 
-[Ver Módulo](./Learn/Optimization)
+[Ver Módulo](./Learn/4.Optimization)
 
 ### 5. Triggers y Procedimientos Almacenados
 - **01-triggers.sql**: Implementa triggers para acciones automáticas.
 - **02-stored-procedures.sql**: Aprende a crear y usar procedimientos almacenados.
 
-[Ver Módulo](./Learn/TriggersAndProcedures)
+[Ver Módulo](./Learn/5.TriggersAndProcedures)
 
 ### 6. Tablas Shadow y Triggers
 - **01-tables-and-shadows.sql**: Implementa tablas shadow para versionado de datos.
 - **02-shadows-with-trigger.sql**: Combina tablas shadow con triggers para una gestión avanzada de datos.
 
-[Ver Módulo](./Learn/ShadowsAndTriggers)
+[Ver Módulo](./Learn/6.ShadowsAndTriggers)
 
 ### 7. Proyecto Final
 - **01-project-implementation.sql**: Implementa un sistema completo de gestión educativa.
