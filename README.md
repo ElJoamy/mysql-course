@@ -1,5 +1,11 @@
 # Curso Completo de MySQL - Guía Definitiva
-[![MySQL](https://img.shields.io/badge/MySQL-8.0+-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://www.mysql.com/) [![Apache](https://img.shields.io/badge/Apache-2.0-red?style=for-the-badge&logo=apache&logoColor=white&labelColor=101010)](https://www.apache.org/licenses/LICENSE-2.0.html)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0+-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://www.mysql.com/)
+[![Apache](https://img.shields.io/badge/Apache-2.0-red?style=for-the-badge&logo=apache&logoColor=white&labelColor=101010)](https://www.apache.org/licenses/LICENSE-2.0.html)
+[![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)](https://www.docker.com/)
+[![Docker Compose](https://img.shields.io/badge/Docker_Compose-2.29.1-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)](https://docs.docker.com/compose/)
+[![DataGrip](https://img.shields.io/badge/DataGrip-JetBrains-000000?style=for-the-badge&logo=datagrip&logoColor=white&labelColor=101010)](https://www.jetbrains.com/datagrip/)
+[![Hacking Ético](https://img.shields.io/badge/Hacking_Etico-CyberSecurity-FFA500?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=101010)](https://www.hackthebox.com/)
+
 
 ![](./Imgs/header.jpg)
 
