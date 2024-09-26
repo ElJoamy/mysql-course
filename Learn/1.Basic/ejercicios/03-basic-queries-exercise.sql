@@ -1,11 +1,22 @@
 /*
-Clase 3 | Ejercicio: Operaciones básicas en MySQL
+Clase 3 | Ejercicio: Consultas Básicas
+
+Ejercicio 1: Nivel Básico
+1. Inserta cinco registros en la tabla "productos" con datos de ejemplo.
+2. Realiza una consulta para seleccionar todos los productos cuyo precio sea mayor a 50.
 */
 
-// 1. Inserta al menos 3 registros en la tabla "estudiantes" con los datos que prefieras.
+/*
+Ejercicio 2: Nivel Intermedio
+1. Realiza una consulta para seleccionar los nombres y precios de los productos ordenados por precio de manera ascendente.
+*/
 
-// 2. Selecciona todos los registros de la tabla "estudiantes".
+/*
+Ejercicio 3: Nivel Avanzado
+1. Realiza una consulta para contar cuántos productos tienen un precio mayor a 100.
+*/
 
-// 3. Actualiza el campo "carrera" de un estudiante.
-
-// 4. Elimina uno de los estudiantes por su "id".
+/*
+Ejercicio 4: Nivel Experto
+1. Realiza una consulta para seleccionar los nombres de los productos que fueron ingresados en el último mes.
+*/

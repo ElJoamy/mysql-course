@@ -21,6 +21,8 @@ El curso está dividido en varios módulos, cada uno enfocado en diferentes aspe
 
 ### 0. Teoría
 - **README.md**: Conseptos fundamentales de MySQL como, normalización, relaciones, llaves, replicación y auditorías.
+- [**data_types.md**](./Learn/0.Theory/data_types.md): Tipos de datos en MySQL y cómo se utilizan.
+- [**sentences.md**](./Learn/0.Theory/sentences.md): Sentencias SQL básicas y avanzadas.
 
 [Ver Módulo](./Learn/0.Theory/README.md)
 
